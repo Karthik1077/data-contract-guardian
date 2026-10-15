@@ -1,0 +1,11 @@
+customer_id,full_name,email,age,status,signup_date,balance,referrer
+1,Asha Rao,asha@example.com,29,active,2025-01-14,120.50,web
+2,Ravi Kumar,ravi@example,34,active,2025-02-03,0,friend
+3,Meera Shah,meera@example.com,17,pending,2025-02-11,45.00,web
+4,John Smith,john@example.com,41,inactive,2025-03-09,-10.25,ads
+4,Priya Nair,priya@example.com,38,active,2025-03-12,99.99,
+6,,sam@example.com,52,active,2025-03-20,15,web
+7,Li Wei,li@example.com,abc,active,2025-04-01,12.00,web
+8,Omar Ali,omar@example.com,45,suspended,13/45/2025,80,friend
+9,Nina Patel,nina@example.com,150,pending,2025-04-18,abc,ads
+10,Tom Brown,tom@example.com,36,active,2025-05-02,200,web
